@@ -1,5 +1,6 @@
 # stickyfy.js
-Handle sticky state change in js for elements with position:sticky
+
+Lightweight vanilla plugin to handle sticky state change in js for elements with position:sticky
 
 Assigns an observer to elements and toggles class and callback functions for stick and unstick
 
